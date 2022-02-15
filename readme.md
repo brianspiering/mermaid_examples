@@ -1,7 +1,7 @@
 Mermaid Examples
 ========
 
-Mermaid creates diagrams and visualizations using a Markdown-inspired language.  
+Mermaid creates diagrams and visualizations based on a text language similar to Markdown.
 
 Mermaid is supported on GitHub so text-defined diagrams can be used to improve documentation.  
 
