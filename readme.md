@@ -1,7 +1,9 @@
 Mermaid Examples
 ========
 
-Mermaid allows the creation of diagrams and visualizations using Markdown-like language.
+Mermaid allows the creation of diagrams and visualizations using Markdown-inspired language.  
+
+Mermaid is supported on GitHub so text-defined diagrams can be used to improve documentation.  
 
 Examples
 -------
@@ -13,6 +15,5 @@ Useful Links
 ---------
 
 - [Mermaid website](https://mermaid-js.github.io/mermaid/#/)
-- [Github’s Blog post](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
-- [VS Code's Markdown Preview Mermaid Support
- support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+- [Github’s blog post](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+- [VS Code's Markdown Preview with Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
