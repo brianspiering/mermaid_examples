@@ -12,4 +12,10 @@ flowchart LR
 Data Engineering Workflow
 ----------
 
-TBD
+```mermaid
+flowchart LR
+    A["Ingestion"]  -->  
+    B["Storage"]   <--> 
+    C["Processing"] -->
+    D["Deployment"]
+```
